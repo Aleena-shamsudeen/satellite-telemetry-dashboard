@@ -26,13 +26,15 @@ This project simulates a satellite telemetry system that sends real-time data su
 
 ---
 
-'''## 📂 Project Structure'''
+## 📂 Project Structure
+
+```
 satellite-telemetry-dashboard/
-│── api/ # Backend API
-│── simulator/ # Data generator (satellite simulation)
-│── tests/ # Automated tests
+│── api/              # Backend API
+│── simulator/        # Data generator (satellite simulation)
+│── tests/            # Automated tests
 │── requirements.txt
----
+```
 
 ## 🚀 How it Works
 
